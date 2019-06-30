@@ -1,348 +1,348 @@
 {
     "101": {
         "code": "A1",
-        "name": "The First Attempt at Fleet Organization!",
-        "desc": "Have 2 ships in your main fleet.",
-        "memo": "\u27a3Rewards the DD, Shirayuki",
+        "name": "¡El primer intento de organización de flotas!",
+        "desc": "Ten 2 barcos en tu flota principal.",
+        "memo": "\u27a3Rewards el DD, Shirayuki",
         "unlock": [ 102 ]
     },
     "102": {
         "code": "A2",
-        "name": "Form a Destroyer Division!",
-        "desc": "Have 4 DD in your main fleet.",
+        "name": "¡Forma una división de destructores!",
+        "desc": "Ten 4 DD en tu flota principal.",
         "unlock": [ 103 ]
     },
     "103": {
         "code": "A3",
-        "name": "Form a Torpedo Squadron!",
-        "desc": "Have a CL as a flagship and 5 DD in your main fleet.",
+        "name": "¡Forma un escuadrón de torpedos!",
+        "desc": "Ten un CL como buque insignia y 5 DD en su flota principal.",
         "unlock": [ 104, 105 ]
     },
     "104": {
         "code": "A4",
-        "name": "Form a Six-Ship Fleet Formation!",
-        "desc": "Have 6 ships in your fleet.",
-        "memo": "\u27a3Rewards the Second Fleet and Expeditions Tab",
+        "name": "¡Conforma una flota de seis barcos!",
+        "desc": "Ten 6 barcos en tu flota.",
+        "memo": "\u27a3Rewards la segunda flota y la pestaña de Expediciones",
         "unlock": [ 115, 116 ]
     },
     "105": {
         "code": "A5",
-        "name": "Form a Division with Two Light Cruisers!",
-        "desc": "Have 2 CL in your main fleet.",
+        "name": "¡Forma una división con dos cruceros ligeros!",
+        "desc": "Tener 2 CL en tu flota principal.",
         "unlock": [ 106, 108, 254, 401 ]
     },
     "106": {
         "code": "A7",
-        "name": "Form a Heavy Cruiser Division!",
-        "desc": "Have 2 CA (not CAV) in your main fleet.",
+        "name": "¡Forma una división de cruceros pesados!",
+        "desc": "Ten 2 CA (no CAV) en tu flota principal.",
         "unlock": [ 215 ]
     },
     "107": {
         "code": "A12",
-        "name": "Form a Carrier Task Force!",
-        "desc": "Have a CV(B/L) as flagship and 3 DD in your main fleet.",
+        "name": "¡Forma un Carrier Task Force!",
+        "desc": "Ten un CV (B/L) como buque insignia y 3 DD en tu flota principal.",
         "unlock": [ 217 ]
     },
     "108": {
         "code": "A8",
-        "name": "Arrange Both of the Tenryuu-class Light Cruiser Sisters!",
-        "desc": "Have Tenryuu and Tatsuta in your main fleet.",
+        "name": "¡Organiza a las dos hermanas de crucero ligero de la clase Tenryuu!",
+        "desc": "Ten Tenryuu y Tatsuta en tu flota principal.",
         "unlock": [ 111 ]
     },
     "109": {
         "code": "A14",
-        "name": "Arrange the Three Sendai-class Light Cruiser Sisters!",
-        "desc": "Have Sendai, Jintsuu and Naka in your main fleet.",
-        "memo": "\u27a3Rewards the Third Fleet",
+        "name": "¡Organiza a las tres hermanas de crucero ligero de la clase Sendai!",
+        "desc": "Ten a Sendai, Jintsuu y Naka en tu flota principal.",
+        "memo": "\u27a3Rewards la tercera flota",
         "unlock": [ 110, 704 ]
     },
     "110": {
         "code": "A15",
-        "name": "Arrange the Four Myoukou-class Heavy Cruiser Sisters!",
-        "desc": "Have Myoukou, Nachi, Ashigara and Haguro in your main fleet.",
+        "name": "¡Organiza a las cuatro hermanas de crucero pesado de la clase Myoukou!",
+        "desc": "Ten a Myoukou, Nachi, Ashigara y Haguro en tu flota principal.",
         "unlock": [ 118 ]
     },
     "111": {
         "code": "A17",
-        "name": "Arrange Both of the Fusou-class Battleship Sisters!",
-        "desc": "Have Fusou and Yamashiro in your main fleet.",
+        "name": "¡Organiza a las dos Hermanas de Acorazado de la clase Fusou!",
+        "desc": "Ten a Fusou y Yamashiro en tu flota principal.",
         "unlock": [ 112 ]
     },
     "112": {
         "code": "A18",
-        "name": "Arrange Both of the Ise-class Battleship Sisters!",
-        "desc": "Have Ise and Hyuuga in your main fleet.",
+        "name": "¡Organiza a las dos Hermanas de Acorazado de la clase Ise!",
+        "desc": "Ten a Ise y Hyuuga en tu flota principal.",
         "unlock": [ 153 ]
     },
     "113": {
         "code": "A13",
-        "name": "Form a Main Fleet with a Battleship and Heavy Cruisers!",
-        "desc": "Have a BB (not BBV) and 2 CA in your main fleet.",
+        "name": "¡Forma una flota principal con un acorazado y cruceros pesados!",
+        "desc": "Ten un BB (no BBV) y 2 CA en tu flota principal.",
         "unlock": [ 114, 119 ]
     },
     "114": {
         "code": "A19",
-        "name": "Form the Nagumo Task Force!",
-        "desc": "Have ONLY Akagi, Kaga, Hiryuu and Souryuu in your main fleet.",
+        "name": "¡Forma la Nagumo Task Force!",
+        "desc": "Ten SOLAMENTE a Akagi, Kaga, Hiryuu y Souryuu en tu flota principal.",
         "unlock": [ 185, 625 ]
     },
     "115": {
         "code": "A6",
-        "name": "Form the Second Fleet!",
-        "desc": "Have a ship in your second fleet.",
+        "name": "¡Forma la segunda flota!",
+        "desc": "Ten un barco en tu segunda flota.",
         "unlock": [ 215 ]
     },
     "116": {
         "code": "A9",
-        "name": "Deploy a Seaplane Tender!",
-        "desc": "Have an AV in your main fleet.",
+        "name": "¡Implementa una Seaplane Tender!",
+        "desc": "Ten un AV en tu flota principal.",
         "unlock": [ 120, 146, 174 ]
     },
     "117": {
         "code": "A11",
-        "name": "Form a Carrier Task Force in the Second Fleet!",
-        "desc": "Have a CV(B/L) and 3 DD in your second fleet.",
+        "name": "¡Forma un Carrier Task Force en la segunda flota!",
+        "desc": "Ten un CV (B/L) y 3 DD en tu segunda flota.",
         "unlock": [ 217 ]
     },
     "118": {
         "code": "A16",
-        "name": "Arrange the Kongou-class Fast Battleship Forces!",
-        "desc": "Have Kongou, Hiei, Haruna and Kirishima in your main fleet.",
+        "name": "¡Organiza a las Fuerzas de Acorazados Rápidos de la clase Kongou!",
+        "desc": "Ten a Kongou, Hiei, Haruna y Kirishima en tu flota principal.",
         "unlock": [ 611 ]
     },
     "119": {
         "code": "A20",
-        "name": "Form the Mikawa Fleet!",
-        "desc": "Have Choukai, Aoba, Kako, Furutaka, Tenryuu and a FAST ship in your main fleet.",
+        "name": "¡Forma la Flota Mikawa!",
+        "desc": "Ten a Choukai, Aoba, Kako, Furutaka, Tenryuu y un barco RÁPIDO en tu flota principal.",
         "unlock": [ 121, 219 ]
     },
     "120": {
         "code": "A10",
-        "name": "Form the 6th Destroyer Division!",
-        "desc": "Have ONLY Akatsuki, Hibiki, Inazuma and Ikazuchi in your fleet.",
+        "name": "¡Forma la 6ta División de Destructores!",
+        "desc": "Ten SOLAMENTE a Akatsuki, Hibiki, Inazuma e Ikazuchi en tu flota.",
         "unlock": [ 128, 222, 274 ]
     },
     "121": {
         "code": "A21",
-        "name": "Form the 4th Cruiser Division!",
-        "desc": "Have Atago, Takao, Choukai and Maya in your main fleet.",
+        "name": "¡Forma la 4ª División de Cruceros!",
+        "desc": "Ten Atago, Takao, Choukai y Maya en tu flota principal.",
         "unlock": [ 122, 124, 125, 127, 129, 223 ]
     },
     "122": {
         "code": "A22",
-        "name": "Form the Nishimura Fleet!",
-        "desc": "Have Fusou, Yamashiro, Mogami and Shigure in your main fleet.",
-        "memo": "\u27a3Rewards a Mamiya",
+        "name": "¡Forma la Flota Nishimura!",
+        "desc": "Ten a Fusou, Yamashiro, Mogami y Shigure en tu flota principal.",
+        "memo": "\u27a3Rewards una Mamiya",
         "unlock": [ 123, 126, 224 ]
     },
     "123": {
         "code": "A23",
-        "name": "Form the 5th Carrier Division!",
-        "desc": "Have Shoukaku, Zuikaku and 2 DD in your main fleet.",
-        "memo": "\u27a3Rewards a Repair Team",
+        "name": "¡Forma la 5ta división de Portaviones!",
+        "desc": "Ten Shoukaku, Zuikaku y 2 DD en tu flota principal.",
+        "memo": "\u27a3Rewards un equipo de reparación",
         "unlock": [ 143, 148, 161, 225 ]
     },
     "124": {
         "code": "A24",
-        "name": "Form the New Mikawa Fleet!",
-        "desc": "Have Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu in your main fleet.",
-        "memo": "\u27a3Rewards a Mamiya",
+        "name": "¡Forma la Nueva Flota Mikawa!",
+        "desc": "Ten a Choukai, Aoba, Kinugasa, Kako, Furutaka y Tenryuu en tu flota principal.",
+        "memo": "\u27a3Rewards una Mamiya",
         "unlock": [ 227 ]
     },
     "125": {
         "code": "A25",
-        "name": "Form a Submarine Fleet!",
-        "desc": "Have 2 SS(V) in your fleet.",
+        "name": "¡Forma una flota submarina!",
+        "desc": "Ten 2 SS (V) en su flota.",
         "memo": "\u27a3Rewards a Repair Team",
         "unlock": [ 131, 231 ]
     },
     "126": {
         "code": "A26",
-        "name": "Form an Aviation Surface Attack Fleet!",
-        "desc": "Have 2 BBV and 2 CAV in your main fleet.",
+        "name": "¡Forma una flota de ataque de superficie de aviación!",
+        "desc": "Ten 2 BBV y 2 CAV en tu flota principal.",
         "unlock": [ 232 ]
     },
     "127": {
         "code": "A27",
-        "name": "Form a Medium-Sized Submarine Fleet!",
-        "desc": "Have 3 SS(V) in your fleet.",
-        "memo": "\u27a3Rewards a Mamiya",
+        "name": "¡Forma una flota de submarinos de tamaño mediano!",
+        "desc": "Ten 3 SS (V) en tu flota.",
+        "memo": "\u27a3Rewards una Mamiya",
         "unlock": [ 139, 405 ]
     },
     "128": {
         "code": "A28",
-        "name": "Form the 6th Cruiser Division!",
-        "desc": "Have Furutaka, Kako, Aoba and Kinugasa in your main fleet.",
-        "memo": "\u27a3Rewards a Mamiya",
+        "name": "¡Forma la 6ª División de Cruceros!",
+        "desc": "Ten a Furutaka, Kako, Aoba y Kinugasa en tu flota principal.",
+        "memo": "\u27a3Rewards una Mamiya",
         "unlock": [ 138, 233 ]
     },
     "129": {
         "code": "A29",
-        "name": "Form the 5th Fleet!",
-        "desc": "Have Nachi, Ashigara, Tama and Kiso in your fleet.",
+        "name": "¡Forma la 5ª Flota!",
+        "desc": "Ten a Nachi, Ashigara, Tama y Kiso en tu flota.",
         "unlock": [ 130 ]
     },
     "130": {
         "code": "A30",
-        "name": "Form the 1st Torpedo Squadron!",
-        "desc": "Have Abukuma, Akebono, Ushio, Kasumi and Shiranui in your fleet.",
-        "memo": "\u27a3Rewards a Repair Team",
+        "name": "¡Forma el 1er escuadrón de torpedos!",
+        "desc": "Ten a Abukuma, Akebono, Ushio, Kasumi y Shiranui en tu flota.",
+        "memo": "\u27a3Rewards un equipo de reparación",
         "unlock": [ 410 ]
     },
     "131": {
         "code": "A31",
-        "name": "Form the 8th Destroyer Division!",
-        "desc": "Have ONLY Asashio, Michishio, Ooshio and Arashio in your fleet.",
+        "name": "¡Forma la 8va División de Destructores!",
+        "desc": "Ten SOLAMENTE a Asashio, Michishio, Ooshio y Arashio en tu flota.",
         "unlock": [ 133, 239 ]
     },
     "132": {
         "code": "A32",
-        "name": "Form the 18th Destroyer Division!",
-        "desc": "Have ONLY Kasumi, Arare, Kagerou and Shiranui in your fleet.",
-        "memo": "\u27a3Rewards a Repair Team",
+        "name": "¡Forma la División 18º de Destructores!",
+        "desc": "Ten SOLAMENTE a Kasumi, Arare, Kagerou y Shiranui en tu flota.",
+        "memo": "\u27a3Rewards un equipo de reparación",
         "unlock": [ 144, 149, 240 ]
     },
     "133": {
         "code": "A33",
-        "name": "Form the 30th Destroyer Division (First Generation)!",
-        "desc": "Have ONLY Mutsuki, Kisaragi, Yayoi and Mochizuki in your fleet.",
-        "memo": "\u27a3Rewards a Repair Team",
+        "name": "¡Forma la 30º División de Destructores (Primera Generación)!",
+        "desc": "Ten SOLAMENTE a Mutsuki, Kisaragi, Yayoi y Mochizuki en tu flota.",
+        "memo": "\u27a3Rewards un equipo de reparación",
         "unlock": [ 136, 244 ]
     },
     "134": {
         "code": "WA01",
-        "name": "Preparation for the Ceremony! (Part 3)",
-        "desc": "Collect your feelings and set Fleet 1 with a Lv.90~99 flagship!",
+        "name": "¡Preparación para la ceremonia! (Parte 3)",
+        "desc": "¡Reúne tus sentimientos y configura la Flota 1 con un buque insignia de Lv.90 ~ 99!",
         "unlock": [ 245 ]
     },
     "135": {
         "code": "WA02",
-        "name": "A New Voyage!",
-        "desc": "Form a fleet with your newlywed Lv.100+ ship as flagship and 5 additional ships!",
-        "memo": "\u27a3Rewards a Repair Team",
+        "name": "¡Un nuevo viaje!",
+        "desc": "¡Forma una flota con tu nuevo barco Lv.100 + como buque insignia y 5 barcos adicionales!",
+        "memo": "\u27a3Rewards un equipo de reparación",
         "unlock": [ 246 ]
     },
     "136": {
         "code": "A34",
-        "name": "Form the 30th Destroyer Division (Second Generation)!",
-        "desc": "Have ONLY Mutsuki, Yayoi, Uzuki and Mochizuki in your fleet.",
+        "name": "¡Forma la 30º División de Destructores (Segunda Generación)!",
+        "desc": "Ten SOLAMENTE a Mutsuki, Yayoi, Uzuki y Mochizuki en tu flota.",
         "unlock": [ 152, 248 ]
     },
     "137": {
         "code": "A35",
-        "name": "Form the 5th Cruiser Division!",
-        "desc": "Have Myoukou, Nachi and Haguro in your fleet.",
+        "name": "¡Forma la 5ª División de Cruceros!",
+        "desc": "Ten a Myoukou, Nachi y Haguro en tu flota.",
         "unlock": [ 140, 147, 249, 418 ]
     },
     "138": {
         "code": "A36",
-        "name": "Form the New 2nd Carrier Division!",
-        "desc": "Have Hiryuu Kai Ni as flagship, Souryuu and 2 DD in your fleet.",
+        "name": "¡Forme la nueva 2da división de portaviones!",
+        "desc": "Ten a Hiryuu Kai Ni como buque insignia, Souryuu y 2 DD en tu flota.",
         "unlock": [ 250 ]
     },
     "139": {
         "code": "A37",
-        "name": "Form the 6th Submarine Fleet!",
-        "desc": "Have 1 AS and 4 SS(V) in your fleet.",
+        "name": "¡Forma la 6ª Flota Submarina!",
+        "desc": "Ten 1 AS y 4 SS (V) en tu flota.",
         "unlock": [ 414 ]
     },
     "140": {
         "code": "A38",
-        "name": "Deploy the New Type of Radar!",
-        "desc": "Have Myoukou Kai Ni as Fleet 1 flagship.",
-        "memo": "\u27a3Rewards a Type 22 Surface RADAR Kai 4"
+        "name": "¡Despliega un nuevo tipo de radar!",
+        "desc": "Ten a Myoukou Kai Ni como el buque insignia de la Flota 1.",
+        "memo": "\u27a3Rewards un RADAR de superficie tipo 22 Kai 4"
     },
     "141": {
         "code": "A39",
-        "name": "Strengthen the Reformed 2nd Carrier Division!",
-        "desc": "Have Souryuu Kai Ni as flagship, Hiryuu Kai Ni, and 2 DD in your fleet.",
+        "name": "¡Consolida la reforma de la 2ª División de Portaviones!",
+        "desc": "Ten a Souryuu Kai Ni como buque insignia, Hiryuu Kai Ni y 2 DD en tu flota.",
         "unlock": [ 251 ]
     },
     "142": {
         "code": "A40",
-        "name": "Amass All Ships of the Elite 3rd Battleship Division!",
-        "desc": "Have Kongou Kai Ni, Haruna Kai Ni, Kirishima Kai Ni and Hiei Kai Ni in your main fleet.",
-        "memo": "\u27a3Rewards a Prototype 35.6cm Triple Gun Mount"
+        "name": "¡Reúne a todos los barcos de la 3ª División de Acorazados de Élite!",
+        "desc": "Ten a Kongou Kai Ni, Haruna Kai Ni, Kirishima Kai Ni y Hiei Kai Ni en tu flota principal.",
+        "memo": "\u27a3Rewards un prototipo de torreta triple 35.6cm"
     },
     "143": {
         "code": "A41",
-        "name": "Deploy a New Model of Standard Aircraft Carrier!",
-        "desc": "Have Unryuu as Fleet 1 flagship.",
+        "name": "¡Implementa el nuevo modelo de portaaviones!",
+        "desc": "Ten a Unryuu como buque insignia de la Flota 1.",
         "unlock": [ 253 ]
     },
     "144": {
         "code": "A42",
-        "name": "Form the Main Battleship Force, 2nd Division!",
-        "desc": "Have ONLY Nagato, Mutsu, Fusou and Yamashiro in your main fleet.",
+        "name": "¡Forma la Fuerza de Acorazado Principal, la 2ª División!",
+        "desc": "Ten SOLAMENTE a Nagato, Mutsu, Fusou y Yamashiro en tu flota principal.",
         "unlock": [ 258 ]
     },
     "145": {
         "code": "A43",
-        "name": "Arrange the Primary Battleships of the Surface Task Force!",
-        "desc": "Have 3 BB (Nagato-class, Fusou-class, Ise-cass or Yamato-class ONLY) and 1 CL in your fleet.",
+        "name": "¡Organiza a los Primeros Acorazados para Surface Task Force!",
+        "desc": "Ten 3 BB (clase Nagato, clase Fusou, clase Ise o clase Yamato SOLAMENTE) y 1 CL en tu flota.",
         "unlock": [ 259 ]
     },
     "146": {
         "code": "A45",
-        "name": "Prepare the Improvement Arsenal!",
-        "desc": "Have Akashi as flagship of Fleet 1.",
-        "memo": "\u27a3Rewards 5 Screws",
+        "name": "¡Prepara el Arsenal a Mejora!",
+        "desc": "Tener a Akashi como buque insignia de la Flota 1.",
+        "memo": "\u27a3Rewards 5 tornillos",
         "unlock": [ 261, 618 ]
     },
     "147": {
         "code": "A44",
-        "name": "Reform the Nishimura Fleet!",
-        "desc": "Have Fusou, Yamashiro, Mogami, Shigure and Michishio in your main fleet.",
-        "memo": "\u27a3Rewards 3 Screws",
+        "name": "¡Reforma la flota nishimura!",
+        "desc": "Ten a Fusou, Yamashiro, Mogami, Shigure y Michishio en tu flota principal.",
+        "memo": "\u27a3Rewards 3 tornillos",
         "unlock": [ 262 ]
     },
     "148": {
         "code": "A46",
-        "name": "Form a Light Surface Counterattack Force!",
-        "desc": "Have Kasumi as flagship, Ashigara, 1 CL and 3 DD in your main fleet.",
+        "name": "¡Forma una fuerza de contraataque de superficie ligera!",
+        "desc": "Ten a Kasumi como buque insignia, Ashigara, 1 CL y 3 DD en su flota principal.",
         "unlock": [ 266 ]
     },
     "149": {
         "code": "A47",
-        "name": "Form the 11th Destroyer Division!",
-        "desc": "Have ONLY Fubuki, Shirayuki, Hatsuyuki and Murakumo in your main fleet.",
+        "name": "¡Forma la 11º División de Destructores!",
+        "desc": "Ten SOLAMENTE a Fubuki, Shirayuki, Hatsuyuki y Murakumo en tu flota principal.",
         "unlock": [ 267, 268 ]
     },
     "150": {
         "code": "A48",
-        "name": "Form the 21st Destroyer Division!",
-        "desc": "Have ONLY Hatsuharu, Nenohi, Wakaba and Hatsushimo in your main fleet.",
+        "name": "¡Forma la 21º División de Destructores!",
+        "desc": "Ten SOLAMENTE a Hatsuharu, Nenohi, Wakaba y Hatsushimo en tu flota principal.",
         "unlock": [ 269 ]
     },
     "151": {
         "code": "A49",
-        "name": "Form the 22nd Destroyer Division!",
-        "desc": "Have ONLY Satsuki, Fumizuki, Nagatsuki and 1 DD in your main fleet.",
+        "name": "¡Forma la 22º División de Destructores!",
+        "desc": "Ten SOLAMENTE Satsuki, Fumizuki, Nagatsuki y 1 DD en tu flota principal.",
         "unlock": [ 270 ]
     },
     "152": {
         "code": "A50",
-        "name": "Prepare the New Mikawa Fleet to Break Through!",
-        "desc": "Have Choukai Kai Ni as flagship and any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari in your main fleet.",
+        "name": "¡Prepara a la Nueva Flota Mikawa para abrirte paso!",
+        "desc": "Ten a Choukai Kai Ni como buque insignia y a cinco de los siguientes barcos Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari en tu flota principal.",
         "unlock": [ 162, 307 ]
     },
     "153": {
         "code": "A51",
-        "name": "Reform the 18th Cruiser Division!",
-        "desc": "Have Tenryuu, Tatsuta and at least 2 additional ships in your fleet.",
+        "name": "¡Reforma la 18ª división de cruceros!",
+        "desc": "Ten a Tenryuu, Tatsuta y al menos 2 barcos adicionales en tu flota.",
         "unlock": [ 275 ]
     },
     "154": {
         "code": "A52",
-        "name": "Form the Surface Breakthrough Force!",
-        "desc": "Have Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi and Inazuma in your fleet.",
+        "name": "¡Forma la fuerza de penetración de superficie!",
+        "desc": "Ten a Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi e Inazuma en tu flota.",
         "unlock": [ 276 ]
     },
     "155": {
         "code": "A53",
-        "name": "Form the New 6th Destroyer Division!",
-        "desc": "Have ONLY Akatsuki Kai Ni as flagship, Hibiki/Verniy, Ikazuchi and Inazuma in your fleet.",
-        "memo": "\u27a3Rewards a Searchlight",
+        "name": "¡Forma la nueva sexta división de destructores!",
+        "desc": "Ten SOLAMENTE a Akatsuki Kai Ni como buque insignia, Hibiki/Verniy, Ikazuchi e Inazuma en tu flota.",
+        "memo": "\u27a3Rewards un reflector",
         "unlock": [ 277 ]
     },
     "156": {
@@ -593,13 +593,13 @@
     
     "202": {
         "code": "B1",
-        "name": "Sortieing for the First Time!",
-        "desc": "Sortie your main fleet."
+        "name": "¡Zarpa por primera vez!",
+        "desc": "Sortie con tu flota principal."
     },
     "203": {
         "code": "B2",
-        "name": "Guard the Sea in Front of the Naval Base!",
-        "desc": "Sortie to [W1-1]. B-Rank+ the boss node.",
+        "name": "¡Protege el mar frente a la Base Naval!",
+        "desc": "Sortie a [W1-1]. Obtén rango B o + en el nodo del jefe",
         "unlock": [ 501, 502 ]
     },
     "204": {
@@ -1443,63 +1443,63 @@
     
     "201": {
         "code": "Bd1",
-        "name": "Daily Victory",
-        "desc": "Defeat an Abyssal fleet by obtaining at least a B-Rank.",
-        "memo": "\u203bCrush the Enemy Fleet!",
+        "name": "Victoria diaria",
+        "desc": "Derrota a una flota Abyssal obteniendo al menos un rango B.",
+        "memo": "\u203bAplasta la flota enemiga!",
         "unlock": [ 216, 211, 212 ],
         "tracking": [ [0,1] ]
     },
     "216": {
         "code": "Bd2",
-        "name": "Daily Battle",
-        "desc": "Attack 1 Abyssal fleet.",
-        "memo": "\u203bDestroy the Enemy Fleet's Flagship!",
+        "name": "Batalla diaria",
+        "desc": "Enfrenta 1 flota Abyssal.",
+        "memo": "\u203bDestruye el buque insignia de la flota enemiga",
         "unlock": [ 172, 210, 218, 214, 213, 311, 426, 634, 678, 810 ],
         "tracking": [ [0,1] ]
     },
     "210": {
         "code": "Bd3",
-        "name": "Daily Battles",
-        "desc": "Attack 10 Abyssal fleets.",
-        "memo": "\u203bAssault 10 Enemy Fleets!",
+        "name": "Batallas diarias",
+        "desc": "Enfrenta a las 10 flotas Abyssal.",
+        "memo": "\u203bAsalta 10 flotas enemigas",
         "unlock": [ 327 ],
         "tracking": [ [0,10] ]
     },
     "211": {
         "code": "Bd4",
-        "name": "Daily Carriers",
-        "desc": "Sink 3 Abyssal CV(L).",
-        "memo": "\u203bSink 3 Enemy Carriers!",
+        "name": "Portaviones diarios",
+        "desc": "Hunde 3 Abyssal tipo CV(L).",
+        "memo": "\u203bHunde a 3 Portaviones enemigos",
         "tracking": [ [0,3] ]
     },
     "218": {
         "code": "Bd5",
-        "name": "Daily Transports",
-        "desc": "Sink 3 Abyssal transport ships.",
-        "memo": "\u203bSink 3 Enemy Supply Ships!",
+        "name": "Transportes diarios",
+        "desc": "Hunde 3 Abyssal de transporte.",
+        "memo": "\u203bHunde 3 barcos Enemigos de Suministro",
         "unlock": [ 226, 220 ],
         "tracking": [ [0,3] ]
     },
     "212": {
         "code": "Bd6",
-        "name": "Daily Transports 2",
-        "desc": "Sink 5 Abyssal transport ships.",
-        "memo": "\u203bStrike at the Enemy Transport Convoy!",
+        "name": "Transportes diarios 2",
+        "desc": "Hunde 5 Abyssal de transporte.",
+        "memo": "\u203b¡Ataca al convoy enemigo de transporte!",
         "tracking": [ [0,5] ]
     },
     "226": {
         "code": "Bd7",
-        "name": "Daily [W2] Bosses",
-        "desc": "Sortie to any map in [W2]. B-Rank+ any boss node 5 times.",
-        "memo": "\u203bSeize Control of the Nansei Islands Region!",
+        "name": "Jefes diarios [W2]",
+        "desc": "Sortie a cualquier mapa en [W2]. Rango B + cualquier nodo de jefe 5 veces.",
+        "memo": "\u203b¡Toma el control de la región de las islas Nansei!",
         "unlock": [ 230 ],
         "tracking": [ [0,5] ]
     },
     "230": {
         "code": "Bd8",
-        "name": "Daily Submarines",
-        "desc": "Sink 6 Abyssal submarines.",
-        "memo": "\u203bEnemy Submarine Suppression!",
+        "name": "Submarinos diarios",
+        "desc": "Hunde 6 Abyssal Submarinos.",
+        "memo": "\u203b¡Supresión de submarinos enemigos!",
         "unlock": [ 881 ],
         "tracking": [ [0,6] ]
     },
@@ -1510,80 +1510,80 @@
     
     "214": {
         "code": "Bw1",
-        "name": "Weekly Sorties",
-        "desc": "Sortie 36 times, reach 24 boss nodes, B-Rank+ 12 boss nodes, and obtain 6 S-Ranks.",
-        "memo": "\u203bOperation A-Go",
+        "name": "Sorties semanales",
+        "desc": "Sortie 36 veces, Llega a 24 nodos de jefe, obtén rango B+ en 12 nodos de jefe, y obtén 6 rangos S.",
+        "memo": "\u203bOperación A-Go",
         "unlock": [ 221 ],
         "tracking": [ [0,36], [0,24], [0,12], [0,6] ],
         "trackingDesc": [ "{0} sorties", "{0} boss nodes", "{0} B+ bosses", "{0} S-Ranks" ]
     },
     "220": {
         "code": "Bw2",
-        "name": "Weekly Carriers",
-        "desc": "Sink 20 Abyssal CV(L).",
-        "memo": "\u203bOperation I-Go",
+        "name": "Portaviones semanales",
+        "desc": "Hunde 20 Abyssal CV(L).",
+        "memo": "\u203bOperación I-Go",
         "unlock": [ 228, 854 ],
         "tracking": [ [0,20] ]
     },
     "213": {
         "code": "Bw3",
-        "name": "Weekly Transports",
-        "desc": "Sink 20 Abyssal transport ships.",
-        "memo": "\u203bNaval Commerce Raid Operation",
+        "name": "Transportes semanales",
+        "desc": "Hunde 20 Abyssal de transporte.",
+        "memo": "\u203bOperación de banda de comercio naval",
         "tracking": [ [0,20] ]
     },
     "221": {
         "code": "Bw4",
-        "name": "Weekly Transports 2",
-        "desc": "Sink 50 Abyssal transport ships.",
-        "memo": "\u203bOperation Ro-Go",
+        "name": "Transportes semanales 2",
+        "desc": "Hunde 50 Abyssal de transporte",
+        "memo": "\u203bOperación Ro-Go",
         "unlock": [ 261, 257, 264 ],
         "tracking": [ [0,50] ]
     },
     "228": {
         "code": "Bw5",
-        "name": "Weekly Submarines",
-        "desc": "Sink 15 Abyssal submarines.",
-        "memo": "\u203bNaval Escort Battle\n\u27a3Rewards a Screw ",
+        "name": "Submarinos semanales",
+        "desc": "Hunde 15 Abyssal submarinos.",
+        "memo": "\u203bBatalla naval de escolta\n\u27a3Rewards un tornillo ",
         "unlock": [ 229, 241, 613, 645, 857 ],
         "tracking": [ [0,15] ]
     },
     "229": {
         "code": "Bw6",
-        "name": "Weekly [W4] Bosses",
-        "desc": "Sortie to any map in [W4]. B-Rank+ any boss node 12 times.",
-        "memo": "\u203bDestroy the Enemy's Eastern Fleet!",
+        "name": "Jefes semanales [W4]",
+        "desc": "Sortie a cualquier mapa en [W4]. Obtén rango B+ en cualquier nodo jefe 12 veces.",
+        "memo": "\u203b¡Destruye la flota oriental del enemigo!",
         "unlock": [ 242 ],
         "tracking": [ [0,12] ]
     },
     "241": {
         "code": "Bw7",
-        "name": "Weekly [W3] Bosses",
-        "desc": "Sortie to [W3-3], [W3-4] or [W3-5]. B-Rank+ any boss node 5 times.",
-        "memo": "\u203bDestroy the Enemy Fleet's Main Forces to the North!\n\u27a3Rewards 3 Screws",
+        "name": "Jefes semanales [W3]",
+        "desc": "Sortie a [W3-3], [W3-4] o [W3-5]. Obtén rango B+ en cualquier nodo jefe 5 veces.",
+        "memo": "\u203bDestruye las fuerzas principales de las flotas enemigas al norte!\n\u27a3Rewards 3 tornillos",
         "tracking": [ [0,5] ]
     },
     "242": {
         "code": "Bw8",
-        "name": "Weekly [W4-4]",
-        "desc": "Sortie to [W4-4]. B-Rank+ the boss node.",
-        "memo": "\u203bCrush the Backbone of the Enemy's Eastern Fleet!",
+        "name": "Semanal [W4-4]",
+        "desc": "Sortie a [W4-4]. Obtén rango B o + en el nodo del jefe.",
+        "memo": "\u203b¡Aplasta la columna vertebral de la flota oriental enemiga!",
         "unlock": [ 243 ],
         "tracking": [ [0,1] ]
     },
     "243": {
         "code": "Bw9",
-        "name": "Weekly [W5-2]",
-        "desc": "Sortie to [W5-2]. S-Rank the boss node 2 times.",
-        "memo": "\u203bObtain Air Superiority Over the Southern Coral Sea Islands Region!\n\u27a3Rewards 2 Screws",
+        "name": "Semanal [W5-2]",
+        "desc": "Sortie a [W5-2]. Obtén rango S en el nodo jefe 2 veces.",
+        "memo": "\u203b¡Obtenga superioridad aérea sobre la región de las islas del sur del Mar del Coral!\n\u27a3Rewards 2 tornillos",
         "unlock": [ 809, 888 ],
         "tracking": [ [0,2] ]
     },
     "261": {
         "code": "Bw10",
-        "name": "Weekly [W1-5]",
-        "desc": "Sortie to [W1-5]. A-Rank+ the boss node 3 times.",
-        "memo": "\u203bStrive to Maintain the Security of the Naval Convoy Route!\n\u27a3Rewards 3 Screws",
+        "name": "Semanal [W1-5]",
+        "desc": "Sortie a [W1-5]. Obtén rango A o + en el nodo jefe 3 veces.",
+        "memo": "\u203b¡Esfuércese por mantener la seguridad de la ruta del convoy naval!\n\u27a3Rewards 3 tornillos",
         "tracking": [ [0,3] ]
     },
     
@@ -1593,104 +1593,104 @@
     
     "249": {
         "code": "Bm1",
-        "name": "Monthly [W2-5] Myoukou Fleet",
-        "desc": "Sortie Myoukou, Nachi, Haguro and 3 additional ships to [W2-5]. S-Rank the boss node.",
-        "memo": "\u203bSortie the 5th Cruiser Division!",
+        "name": "Mensual [W2-5] Flota de Myoukou",
+        "desc": "Sortie con Myoukou, Nachi, Haguro y 3 naves adicionales a [W2-5]. Obtén Rango S en el nodo del jefe.",
+        "memo": "\u203b¡Sortie de la 5ª División de Cruceros!",
         "unlock": [ 265 ]
     },
     "256": {
         "code": "Bm2",
-        "name": "Monthly [W6-1]",
-        "desc": "Sortie to [W6-1]. S-Rank the boss node 3 times.",
-        "memo": "\u203bSortie a Submarine Fleet!\n\u27a3Rewards an Irako",
+        "name": "Mensual [W6-1]",
+        "desc": "Sortie a [W6-1]. Obtén Rango S en el nodo del jefe 3 veces.",
+        "memo": "\u203bSortie una flota submarina!\n\u27a3Rewards un Irako",
         "tracking": [ [0,3] ]
     },
     "257": {
         "code": "Bm3",
-        "name": "Monthly [W1-4]",
-        "desc": "Sortie a CL as flagship, up to 2 other CL, and at least 1 DD to [W1-4]. No other ship types are allowed. S-Rank the boss node.",
-        "memo": "\u203bSend the Torpedo Squadron Southwest!\n\u27a3Rewards an Irako and 3 Screws"
+        "name": "Mensual [W1-4]",
+        "desc": "Sortie con un CL como buque insignia, hasta 2 CL más, y al menos 1 DD para [W1-4]. No se permiten otros tipos de barcos. Obtén Rango S en el nodo del jefe",
+        "memo": "\u203b¡Envía al Escuadrón torpedero hacia el Suroeste!\n\u27a3Rewards un Irako y 3 Tornillos"
     },
     "259": {
         "code": "Bm4",
-        "name": "Monthly [W5-1]",
-        "desc": "Sortie 3 BB(V) (Yamato-class, Nagato-class, Ise-class or Fusou-class ONLY), 1 CL and 2 additional ships to [W5-1]. S-Rank the boss node.",
-        "memo": "\u203bSend a Surface Task Force Southward!\n\u27a3Rewards 4 Screws"
+        "name": "Mensual [W5-1]",
+        "desc": "Sortie con 3 BB(V) (clase Yamato, clase Nagato, clase Ise o clase Fusou SOLAMENTE), 1 CL y 2 barcos adicionales a [W5-1]. Obtén Rango S en el nodo del jefe",
+        "memo": "\u203b¡Envía la Surface Task Force hacia el Suroeste!\n\u27a3Rewards 4 tornillos"
     },
     "265": {
         "code": "Bm5",
-        "name": "Monthly [W1-5]",
-        "desc": "Sortie to [W1-5]. A-Rank+ the boss node 10 times.",
-        "memo": "\u203bMonth-Long Reinforcement of the Naval Convoy\n\u27a3Rewards 3 Screws",
+        "name": "Mensual [W1-5]",
+        "desc": "Sortie a [W1-5]. Obtén Rango A o + en el nodo del jefe 10 veces.",
+        "memo": "\u203bRefuerzo de un mes al convoy naval\n\u27a3Rewards 3 tornillos",
         "unlock": [ 628 ],
         "tracking": [ [0,10] ]
     },
     "264": {
         "code": "Bm6",
-        "name": "Monthly [W4-2]",
-        "desc": "Sortie 2 CV(B/L), 2 DD and 2 additional ships to [W4-2]. S-Rank the boss node.",
-        "memo": "\u203bSend a Carrier Task Force Westward!\n\u27a3Rewards 2 Screws",
+        "name": "Mensual [W4-2]",
+        "desc": "Sortie con 2 CV(B/L), 2 DD y 2 naves adicionales a [W4-2]. Obtén Rango S en el nodo del jefe",
+        "memo": "\u203b¡Envía la Carrier Task Force hacia el oeste!\n\u27a3Rewards 2 Screws",
         "unlock": [ 266, 626, 822 ]
     },
     "266": {
         "code": "Bm7",
-        "name": "Monthly [W2-5] Destroyer Fleet",
-        "desc": "Sortie a DD as flagship, 3 additional DD, 1 CA (not CAV) and 1 CL to [W2-5]. S-Rank the boss node.",
-        "memo": "\u203bBreak Through With the Surface Counterattack Force!\n\u27a3Rewards 2 Screws"
+        "name": "Mensual [W2-5] Flota de Destructores",
+        "desc": "Sortie un DD como buque insignia, 3 DD adicionales, 1 CA (no CAV) y 1 CL a [W2-5]. Obtén Rango S en el nodo del jefe",
+        "memo": "\u203b¡Rompe con la fuerza de contraataque de superficie!\n\u27a3Rewards 2 tornillos"
     },
     
     "822": {
         "code": "Bq1",
-        "name": "Quarterly [W2-4]",
-        "desc": "Sortie to [W2-4]. S-Rank the boss node 2 times.",
-        "memo": "\u203bOkinoshima Region Counterattack Op\n\u27a3Rewards a Mamiya and 5 Screws",
+        "name": "Trimestral [W2-4]",
+        "desc": "Sortie a [W2-4]. Obtén Rango S en el nodo del jefe 2 veces.",
+        "memo": "\u203bRegión de Okinoshima Contraataque Op.\n\u27a3Rewards un Mamiya y 5 tornillos",
         "tracking": [ [0,2] ]
     },
     "854": {
         "code": "Bq2",
-        "name": "Quarterly Ranking Points 1",
-        "desc": "Sortie Fleet 1 to [W2-4], [W6-1] and [W6-3] and A-Rank+ the boss nodes of each. Sortie to [W6-4] and S-Rank the boss node.",
-        "memo": "\u203bBattle Results Extension Mission! \"Operation Z\", Preliminary Operation\n\u27a3Rewards 3 Irako, 4 Screws and 350 Ranking Points",
+        "name": "Puntos de Clasificación Trimestrales 1",
+        "desc": "Sortie con la flota 1 a [W2-4], [W6-1] y [W6-3] y obtener rango A o + en los nodos de Jefes. Ir a [W6-4] y obtener rango S en el nodo del jefe.",
+        "memo": "\u203b¡Misión para extender los resultados de la batalla! \"Operación Z\", Preliminary Operation\n\u27a3Rewards 3 Irako, 4 Tornillos y 350 Puntos de Clasificación.",
         "tracking": [ [0,1], [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W2-4]", "{0} A-Rank+ [W6-1]", "{0} A-Rank+ [W6-3]", "{0} S-Rank [W6-4]" ]
     },
     "861": {
         "code": "Bq3",
-        "name": "Quarterly [W1-6]",
-        "desc": "Sortie 2 BBV/AO and up to 4 additional ships to [W1-6]. Reach node N twice.",
-        "memo": "\u203bEnforcement Transport Fleet, Set Sail!\n\u27a3Rewards an Underway Replenishment",
+        "name": "Trimestral [W1-6]",
+        "desc": "Sortie con 2 BBV/AO y hasta 4 barcos adicionales a [W1-6]. Llegar al nodo N dos veces.",
+        "memo": "\u203b¡Desempeño de la flota de transporte, zarpen!\n\u27a3Rewards una reposición en curso",
         "unlock": [ 862 ],
         "tracking": [ [0,2] ]
     },
     "862": {
         "code": "Bq4",
-        "name": "Quarterly [W6-3]",
-        "desc": "Sortie 1 AV, 2 CL and up to 3 additional ships to [W6-3]. A-Rank+ the boss node twice.",
-        "memo": "\u203bCarry Out Aerial Reconnaissance of the Front Lines!\n\u27a3Rewards 4 Screws",
+        "name": "Trimestral [W6-3]",
+        "desc": "Sortie con 1 AV, 2 CL y hasta 3 barcos adicionales a [W6-3]. Rango A o + en el nodo del jefe dos veces.",
+        "memo": "\u203bLlevar a cabo reconocimiento aéreo de las líneas del frente\n\u27a3Rewards 4 tornillos",
         "tracking": [ [0,2] ]
     },
     "873": {
         "code": "Bq5",
-        "name": "Quarterly [W3]",
-        "desc": "Sortie a CL and up to 5 additional ships to [W3-1], [W3-2] and [W3-3]. A-Rank+ the boss nodes of each. Press F10 to clear the overlay.",
-        "memo": "\u203bSecure the Defense of the Northern Region!\n\u27a3Rewards a Combat Ration and either a Furniture Fairy OR a \u2605+3 12.7cm Twin Gun Mount Model C Kai Ni OR a Medal",
+        "name": "Trimestral [W3]",
+        "desc": "Sortie un CL y hasta 5 barcos adicionales a [W3-1], [W3-2] y [W3-3]. rango A o + en los nodos de los jefes.",
+        "memo": "\u203b¡Asegura la defensa de la región norte!\n\u27a3Rewards una Ración de Combate y un Hada de los Muebles O un \u2605Cañon de montaje doble de 12,7cm Modelo C Kai Ni+3 O una medalla",
         "unlock": [ 874, 875 ],
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} A-Rank+ [W3-1]", "{0} A-Rank+ [W3-2]", "{0} A-Rank+ [W3-3]" ]
     },
     "875": {
         "code": "Bq6",
-        "name": "Quarterly [W5-4]",
-        "desc": "Sortie Naganami Kai Ni, one of Takanami Kai, Asashimo Kai or Okinami Kai, and up to 4 additional ships to [W5-4]. S-Rank the boss node twice. Overlay: F10",
-        "memo": "\u203bElite DesDiv 31, Break Into the Iron Bottom Sound!\n\u27a3Rewards:\n\u00B6First choice: Either 2 Type 13 Air Radars OR 2 Type 22 Surface Radars OR an Action Report\n\u00B6Second choice: Either a New Model Artillery Armament Materials OR a Present Box",
+        "name": "Trimestral [W5-4]",
+        "desc": "Sortie con Naganami Kai Ni, una de los siguientes barcos, Takanami Kai, Asashimo Kai u Okinami Kai, y hasta 4 barcos adicionales a [W5-4]. Rango S en el nodo del jefe dos veces.",
+        "memo": "\u203bDesDiv 31º élite, ¡Rompe la linea final de hierro!\n\u27a3Rewards:\n\u00B6Primera opción: 2 radares aéreos de tipo 13 O 2 radares de superficie tipo 22 O un AR\n\u00B6Segunda opción: ya sea un nuevo modelo de material de armamento de artillería O una caja de regalo",
         "unlock": [ 325 ],
         "tracking": [ [0,2] ]
     },
     "888": {
         "code": "Bq7",
-        "name": "Quarterly Ranking Points 2",
-        "desc": "Sortie any four of Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari and up to 2 additional ships to [W5-1], [W5-3] and [W5-4]. S-Rank the boss nodes. Overlay: F10",
-        "memo": "\u203bNew Mikawa Fleet, Break into the Iron Bottom Sound!\n\u27a3Rewards a Medal OR 5 Screws and 200 Ranking Points",
+        "name": "Puntos de Clasificación Trimestrales 2",
+        "desc": "Sortie con 4 de los siguientes barcos, Choukai, Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari y hasta 2 naves adicionales a [W5-1], [W5-3] y [W5-4]. Rango S de los nodos de los jefes.",
+        "memo": "\u203bLa nueva Flota Mikawa, ¡Rompe la linea final de hierro!\n\u27a3Rewards una medalla o 5 tornillos y 200 puntos de clasificación",
         "tracking": [ [0,1], [0,1], [0,1] ],
         "trackingDesc": [ "{0} S-Rank [W5-1]", "{0} S-Rank [W5-3]", "{0} S-Rank [W5-4]" ]
     },
@@ -2053,27 +2053,27 @@
     
     "501": {
         "code": "E1",
-        "name": "Resupply for the First Time!",
-        "desc": "Resupply a ship."
+        "name": "¡Reabastecimiento por primera vez!",
+        "desc": "Reabastecimiento de un barco."
     },
     "502": {
         "code": "E2",
-        "name": "Docking for the First Time!",
-        "desc": "Repair a ship."
+        "name": "¡Repara por primera vez!",
+        "desc": "Reparar un barco."
     },
     "503": {
         "code": "E3",
-        "name": "Daily Repairs",
-        "desc": "Repair 5 ships.",
-        "memo": "\u203bMass Fleet Servicing!",
+        "name": "Reparaciones diarias",
+        "desc": "Reparacion de 5 barcos.",
+        "memo": "\u203bServicio masivo de flotas",
         "unlock": [ 504 ],
         "tracking": [ [0,5] ]
     },
     "504": {
         "code": "E4",
-        "name": "Daily Resupplies",
-        "desc": "Resupply your ships 15 times.",
-        "memo": "\u203bThe Fleet Mess Hall Feast!",
+        "name": "Reabastecimientos diarios",
+        "desc": "Reabastece tus barcos 15 veces.",
+        "memo": "\u203bFiesta en el comedor de la flota!",
         "tracking": [ [0,15] ]
     },
 
@@ -2081,111 +2081,111 @@
     
     "605": {
         "code": "F5",
-        "name": "Daily Development 1",
-        "desc": "Attempt to construct a piece of equipment. Failures count toward this.",
-        "memo": "\u203bOrders to Develop New Equipment",
+        "name": "Desarrollo diario 1",
+        "desc": "Intenta construir una pieza de equipo. Los fracasos cuentan para esto.",
+        "memo": "\u203bPedidos para desarrollar nuevos equipos",
         "unlock": [ 606, 679, 680 ],
         "tracking": [ [0,1] ]
     },
     "606": {
         "code": "F6",
-        "name": "Daily Construction 1",
-        "desc": "Construct a ship.",
-        "memo": "\u203bOrders to Construct a New Ship",
+        "name": "Construcción diaria 1",
+        "desc": "Construye un barco.",
+        "memo": "\u203bÓrdenes para construir un nuevo barco ",
         "unlock": [ 607 ],
         "tracking": [ [0,1] ]
     },
     "607": {
         "code": "F7",
-        "name": "Daily Development 2",
-        "desc": "Attempt to construct 3 pieces of equipment. Failures count toward this.",
-        "memo": "\u203bConcentrated Enhanced Equipment Development",
+        "name": "Desarrollo diario 2",
+        "desc": "Intenta construir 3 piezas de equipamiento. Los fracasos cuentan para esto.",
+        "memo": "\u203bConcentrate en el desarrollo de equipos mejorados",
         "unlock": [ 608, 673 ],
         "tracking": [ [0,3] ]
     },
     "608": {
         "code": "F8",
-        "name": "Daily Construction 2",
-        "desc": "Construct 3 ships.",
-        "memo": "\u203bEnhance the Fleet by Constructing Ship Girls!",
+        "name": "Construcción diaria 2",
+        "desc": "Construye 3 barcos.",
+        "memo": "\u203b¡Mejora la flota construyendo chicas barcos!",
         "unlock": [ 609, 617, 619, 669 ],
         "tracking": [ [0,3] ]
     },
     "609": {
         "code": "F9",
-        "name": "Daily Dismantlement",
-        "desc": "Scrap 2 ships.",
-        "memo": "\u203bIn Correspondence With the Disarmament Treaty!",
+        "name": "Desmantelamiento diario",
+        "desc": "Desguace 2 barcos.",
+        "memo": "\u203bEn correspondencia con el Tratado de Desarme",
         "tracking": [ [0,2] ]
     },
     "619": {
         "code": "F18",
-        "name": "Daily Upgrade",
-        "desc": "Attempt to upgrade a piece of equipment using Akashi's Improvement Arsenal. Failures count toward this.",
-        "memo": "\u203bIntensive Improvement of Equipment\n\u27a3Rewards a Screw",
+        "name": "Actualización diaria",
+        "desc": "Intenta actualizar un equipo utilizando el Arsenal de mejoras de Akashi. Los fracasos cuentan para esto.",
+        "memo": "\u203bMejora Intensiva de Equipos\n\u27a3Rewards un tornillo",
         "unlock": [ 637, 638 ],
         "tracking": [ [0,1] ]
     },
     "673": {
         "code": "F65",
-        "name": "Daily Gun Dismantlement",
-        "desc": "Scrap 4 Small Caliber Main Guns.",
-        "memo": "\u203bConsolidation of Equipment Development Capabilities",
+        "name": "Desmantelamiento diario de armas",
+        "desc": "Desmantela 4 cañones principales de calibre pequeño.",
+        "memo": "\u203bConsolida la capacidad para el desarrollo de equipos",
         "unlock": [ 188, 317, 674, 876 ],
         "tracking": [ [0,4] ]
     },
     "674": {
         "code": "F66",
-        "name": "Daily AA Gun Dismantlement",
-        "desc": "Have 300 steel. Scrap 3 AA Machine Guns.",
-        "memo": "\u203bArsenal Environmental Consolidation",
+        "name": "Desmantelamiento diario de armas AA",
+        "desc": "Tienen 300 de acero y desmantela 3 armas AA.",
+        "memo": "\u203bConsolida un entorno para el arsenal",
         "unlock": [ 675, 676, 677, 688, 803 ],
         "tracking": [ [0,3] ]
     },
     
     "601": {
         "code": "F1",
-        "name": "The First Construction!",
-        "desc": "Construct a ship."
+        "name": "¡La primera construcción!",
+        "desc": "Construye un barco."
     },
     "602": {
         "code": "F2",
-        "name": "The First Development!",
-        "desc": "Construct a piece of equipment."
+        "name": "¡El primer desarrollo!",
+        "desc": "Construye una pieza de equipo."
     },
     "603": {
         "code": "F3",
-        "name": "The First Dismantlement!",
-        "desc": "Scrap a ship."
+        "name": "El primer desmantelamiento!",
+        "desc": "Desmantela un barco."
     },
     "604": {
         "code": "F4",
-        "name": "The First Disposal!",
-        "desc": "Scrap a piece of equipment."
+        "name": "La primera distribución",
+        "desc": "Desmantela una pieza de equipo."
     },
     "610": {
         "code": "F10",
-        "name": "Preparation for Large Ship Construction! (Part 2)",
-        "desc": "Scrap 4 pieces of equipment.",
-        "memo": "\u27a3Enables Large Ship Construction"
+        "name": "Preparación para la construcción de barcos grandes! (Parte 2)",
+        "desc": "Desmantela 4 piezas de equipo.",
+        "memo": "\u27a3Habilita la construcción de barcos grandes"
     },
     "611": {
         "code": "WF01",
-        "name": "Preparation for the Ceremony! (Part 1)",
-        "desc": "Scrap 2 pieces of equipment to show your love!",
+        "name": "¡Preparación de la ceremonia! (Parte 1)",
+        "desc": "¡Desmantela 2 piezas de equipo para mostrar tu amor!",
         "unlock": [ 306 ]
     },
     "612": {
         "code": "F11",
-        "name": "Prepare the Transport Drums!",
-        "desc": "Scrap 3 pieces of equipment.",
-        "memo": "\u27a3Rewards 3 Drum Canisters"
+        "name": "¡Prepara los tambores de transporte!",
+        "desc": "Desmantela 3 piezas de equipamiento.",
+        "memo": "\u27a3Rewards 3 tambores de transporte"
     },
     "613": {
         "code": "F12",
-        "name": "Weekly Dismantlement",
-        "desc": "Scrap 24 pieces of equipment. Scrap them one at a time.",
-        "memo": "\u203bRecycling of Assets\n\u27a3Rewards a Drum Canister",
+        "name": "Desmantelamiento semanal",
+        "desc": "Desmantela 24 piezas de equipamiento. Deséchalos uno a la vez..",
+        "memo": "\u203bReciclaje de activos\n\u27a3Rewards un tambor de transporte",
         "tracking": [ [0,24] ]
     },
      "614": {
@@ -2208,15 +2208,15 @@
     },
     "617": {
         "code": "F16",
-        "name": "Preparation for Irako",
-        "desc": "Scrap 10 pieces of equipment.",
+        "name": "Preparación para Irako",
+        "desc": "Desmantela 10 piezas de equipo.",
         "memo": "\u27a3Rewards 4 Irako"
     },
     "618": {
         "code": "F17",
-        "name": "The First Equipment Modernization!",
-        "desc": "Upgrade a piece of equipment using Akashi's Improvement Arsenal.",
-        "memo": "\u27a3Rewards 7 Screws",
+        "name": "¡La primera modernización de equipos!",
+        "desc": "Mejora un equipo usando el Arsenal de Mejora de Akashi.",
+        "memo": "\u27a3Rewards 7 tornillos",
         "unlock": [ 619 ]
     },
     "622": {
@@ -2233,16 +2233,16 @@
     },
     "624": {
         "code": "F21",
-        "name": "Preparation for the Prototype Rigging",
-        "desc": "Scrap 7 pieces of equipment.",
-        "memo": "\u27a3Rewards a Prototype Flight Deck Catapult",
+        "name": "Preparación para el prototipo de aparejo",
+        "desc": "Desmantela 7 piezas de equipamiento.",
+        "memo": "\u27a3Rewards una catapulta prototipo de cubierta de vuelo",
         "unlock": [ 629 ]
     },
     "625": {
         "code": "F23",
-        "name": "Additional Prototype Flight Rigging",
-        "desc": "Scrap 9 pieces of equipment.",
-        "memo": "\u27a3Rewards a Prototype Flight Deck Catapult",
+        "name": "Prototipo de vuelo adicional",
+        "desc": "Desmantela 9 piezas de equipamiento.",
+        "memo": "\u27a3Rewards una catapulta prototipo de cubierta de vuelo",
         "unlock": [ 167, 632 ]
     },
     "626": {
@@ -2300,15 +2300,15 @@
     },
     "634": {
         "code": "F31",
-        "name": "Preparations for New Furniture",
-        "desc": "Scrap 9 pieces of equipment.",
-        "memo": "\u27a3Rewards a Furniture Fairy",
+        "name": "Preparaciones para muebles nuevos",
+        "desc": "Desmantela 9 piezas de equipo.",
+        "memo": "\u27a3Rewards un hada de muebles",
         "unlock": [ 811 ]
     },
     "635": {
         "code": "F32",
-        "name": "Preparations for New Equipment",
-        "desc": "Scrap 5 pieces of equipment.",
+        "name": "Preparaciones para nuevos equipos",
+        "desc": "Desmantela 5 piezas de equipo.",
         "unlock": [ 312 ]
     },
     "636": {
@@ -2320,9 +2320,9 @@
     },
     "638": {
         "code": "F34",
-        "name": "Weekly AA Gun Dismantlement",
-        "desc": "Scrap 6 AA Machine Guns.",
-        "memo": "\u203bAnti-Air Machine Gun Mass Production\n\u27a3Rewards a Screw",
+        "name": "Desmantelamiento de armas semanal AA",
+        "desc": "Desmantela 6 piezas de equipo AA.",
+        "memo": "\u203bProducción en masa de armas antiaéreas\n\u27a3Rewards un tornillo",
         "unlock": [ 671 ],
         "tracking": [ [0,6] ]
     },
@@ -2340,8 +2340,8 @@
     },
     "640": {
         "code": "SF",
-        "name": "(Limited time) Early Summer Cleanup",
-        "desc": "Scrap 5 pieces of equipment."
+        "name": "(Tiempo limitado) Limpieza de principios de verano",
+        "desc": "Desmantela 5 piezas de equipo."
     },
     "641": {
         "code": "F37",
@@ -2543,18 +2543,18 @@
     },
     "676": {
         "code": "F68",
-        "name": "Weekly Gun Dismantlement",
-        "desc": "Have 2400 Steel. Scrap 3 Medium Caliber Main Guns, 3 Secondary Guns and a Drum Canister.",
-        "memo": "\u203bIntegrated Consolidation of Equipment Development Capabilities\n\u2718Consumes the resources.",
+        "name": "Desmantelamiento semanal de armas",
+        "desc": "Ten 2400 de acero. Desecha 3 armas principales de calibre medio, 3 armas secundarias y un tambor de transporte.",
+        "memo": "\u203bConsolidación integrada de capacidades de desarrollo de equipos\n\u2718Consume los recursos.",
         "tracking": [ [0,3], [0,3], [0,1] ],
         "trackingDesc": [ "{0} Medium Cal. Main Guns", "{0} Secondary Guns", "{0} Drum Canister" ],
         "unlock": [ 318, 804 ]
     },
     "677": {
         "code": "F69",
-        "name": "Weekly Dismantlement 2",
-        "desc": "Have 3600 Steel. Scrap 4 Large Cal. Main Guns, 2 Recon Seaplanes and 3 Torpedoes.",
-        "memo": "\u203bConsolidation of Faculties to Support Ongoing War Efforts\n\u2718Consumes the resources.",
+        "name": "Desmantelamiento semanal 2",
+        "desc": "Ten 3600 de acero. Desmantela 4 armas principales de gran calibre, 2 hidroaviones de reconocimiento y 3 torpedos.",
+        "memo": "\u203bConsolidación de facultades para apoyar los esfuerzos de guerra en curso\n\u2718Consume los recursos.",
         "tracking": [ [0,4], [0,2], [0,3] ],
         "trackingDesc": [ "{0} Large Cal. Main Guns", "{0} Recon Seaplanes", "{0} Torpedoes" ]
     },
@@ -2634,28 +2634,28 @@
 
     "701": {
         "code": "G1",
-        "name": "The First Modernization!",
-        "desc": "Complete a successful modernization."
+        "name": "¡La primera modernización!",
+        "desc": "Completa una exitosa modernización."
     },
     "702": {
         "code": "G2",
-        "name": "Daily Modernization",
-        "desc": "Complete 2 successful modernizations within the same day.",
-        "memo": "\u203bCarry Out Ship Modernizations!",
+        "name": "Modernización diaria",
+        "desc": "Completa 2 modernizaciones exitosas en el mismo día.",
+        "memo": "\u203b¡Llevar a cabo modernizaciones de un barco!",
         "unlock": [ 703 ],
         "tracking": [ [0,2] ]
     },
     "703": {
         "code": "G3",
-        "name": "Weekly Modernization",
-        "desc": "Complete 15 successful modernizations within the same week.",
-        "memo": "\u203bProceed With Modernizations to Prepare for War!",
+        "name": "Modernizacion semanal",
+        "desc": "Completa 15 modernizaciones exitosas dentro de la misma semana.",
+        "memo": "\u203b¡Procede con las modernizaciones para prepararte para la guerra!",
         "tracking": [ [0,15] ]
     },
     "704": {
         "code": "G4",
-        "name": "Preparation for Large Ship Construction! (Part 1)",
-        "desc": "Complete 4 successful modernizations."
+        "name": "Preparación para la construcción de barcos grandes! (Parte 1)",
+        "desc": "Completa 4 modernizaciones exitosas."
     },
     "705": {
         "code": "G5",
