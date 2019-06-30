@@ -152,8 +152,8 @@
     "125": {
         "code": "A25",
         "name": "¡Forma una flota submarina!",
-        "desc": "Ten 2 SS (V) en su flota.",
-        "memo": "\u27a3Rewards a Repair Team",
+        "desc": "Ten 2 SS(V) en tu flota.",
+        "memo": "\u27a3Rewards un equipo de reparación",
         "unlock": [ 131, 231 ]
     },
     "126": {
@@ -347,8 +347,8 @@
     },
     "156": {
         "code": "A54",
-        "name": "Prepare the 1st Torpedo Squadron to Break Through into the North!",
-        "desc": "Have Abukuma as flagship, Hibiki/Verniy, Hatsushimo, Wakaba, Samidare and Shimakaze in your main fleet.",
+        "name": "¡Prepara al primer escuadrón de torpedos para adentrarse en el norte!",
+        "desc": "Ten a Abukuma como buque insignia, Hibiki/Verniy, Hatsushimo, Wakaba, Samidare y Shimakaze en tu flota principal.",
         "unlock": [ 278 ]
     },
     "157": {
